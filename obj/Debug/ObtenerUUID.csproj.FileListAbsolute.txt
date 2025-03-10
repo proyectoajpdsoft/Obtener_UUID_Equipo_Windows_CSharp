@@ -1,0 +1,10 @@
+C:\Users\alonso\source\repos\ObtenerUUID\bin\Debug\ObtenerUUID.exe.config
+C:\Users\alonso\source\repos\ObtenerUUID\bin\Debug\ObtenerUUID.exe
+C:\Users\alonso\source\repos\ObtenerUUID\bin\Debug\ObtenerUUID.pdb
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.csproj.AssemblyReference.cache
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.formObtenerUUID.resources
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.Properties.Resources.resources
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.csproj.GenerateResource.cache
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.csproj.CoreCompileInputs.cache
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.exe
+C:\Users\alonso\source\repos\ObtenerUUID\obj\Debug\ObtenerUUID.pdb
